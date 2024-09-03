@@ -1,1 +1,8 @@
-OOPJ
+Coding Assignments
+
+Hello World Program: Write a Java program that prints "Hello World!!" to the console.
+
+Compile with Verbose Option: Compile your Java file using the -verbose option with javac. Check the output.
+
+Inspect Bytecode: Use the javap tool to examine the bytecode of the compiled .class file. Observe the output.
+
